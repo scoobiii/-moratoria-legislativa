@@ -57,36 +57,32 @@ Caso medidas estruturantes de **blindagem regulatória** não sejam aprovadas, a
 ---
 # Ônus por Projetos e Leis do Setor Elétrico – Resumo
 
-# Ônus por Projetos e Leis do Setor Elétrico – Dashboard Visual
+## Ônus por Projetos e Leis do Setor Elétrico – Resumo Ampliado
 
-## Impacto Macro Anual
-
-![Prejuízo Total Anual](https://img.shields.io/badge/Prejuízo%20Total%20Anual-R$111.3B-red?style=for-the-badge)
-![Ônus Médio por Habitante](https://img.shields.io/badge/Ônus%20por%20Habitante-R$548-yellow?style=for-the-badge)
-![Ônus % do PIB per Capita](https://img.shields.io/badge/Ônus%20%do%20PIB%20per%20Capita-0.62%25-blue?style=for-the-badge)
-
----
-
-## Detalhamento por Lei / Norma
-
-| Norma (Ano) | Ônus Estimado | Badge |
-|-------------|---------------|-------|
-| **[Lei 14.052/2020](https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/leis/lei-n-14-052-2020.pdf/view)** | R$ 15,3 bi | ![R$15.3B](https://img.shields.io/badge/R$15.3B-red?style=for-the-badge) |
-| **[Lei 14.299/2022](https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/leis/lei-n-14-299-2022.pdf/view)** | ≈ R$ 5,2 bi | ![R$5.2B](https://img.shields.io/badge/R$5.2B-orange?style=for-the-badge) |
-| **[Lei 14.182/2021](https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/leis/lei-n-14-182-2021.pdf/view)** | Até R$ 21,8 bi | ![R$21.8B](https://img.shields.io/badge/R$21.8B-red?style=for-the-badge) |
-| **Lei 14.300/2022** | Média ≈ R$ 62 bi¹ | ![R$62B](https://img.shields.io/badge/R$62B-red?style=for-the-badge) |
-| **MP 1.304/2025 → PLV 10/2025** | ≈ R$ 7 bi | ![R$7B](https://img.shields.io/badge/R$7B-yellow?style=for-the-badge) |
+| Norma (Ano)                                                              | Objetivo / Descrição                                                                                                                                         | Ônus Estimado para Consumidores                                                                                          | Observações / Fonte                                                                                                     |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **Lei 14.052/2020 (Conta‑COVID)**                                        | Empréstimo setorial para mitigar efeitos da pandemia no setor elétrico                                                                                       | **R$ 15,3 bilhões** (quotas líquidas pagas)                                                                              | Montante contabilizado pela ANEEL/CCEE; pago via quotas até 2025.                                                       |
+| **Lei 14.299/2022**                                                      | Subvenção às distribuidoras + criação da Conta Escassez Hídrica (CEH) pós‑crise hídrica de 2021; mantém incentivos à geração a carvão                        | **~R$ 5,2 bilhões/ano** (CEH). Incentivo ao carvão segue até 2040                                                        | Fonte: ANEEL, Planalto.                                                                                                 |
+| **Lei 14.182/2021 (Privatização da Eletrobras + térmicas obrigatórias)** | Autoriza privatização da Eletrobras e impõe obrigação de ~8 GW de térmicas inflexíveis                                                                       | **Até R$ 21,8 bilhões/ano**, por 15 anos ⇒ **até ~R$ 327 bilhões**                                                       | Cálculo com base em teto de R$ 444/MWh; dados do Tribunal de Contas da União.                                           |
+| **Lei 14.300/2022 (Marco da Geração Distribuída)**                       | Mantém/eleva benefícios tarifários e isenções para micro‑/minigeração até 2045                                                                               | Estimativas variam: **R$ 24 bilhões** (segundo Ministério de Minas e Energia) até **> R$ 100 bilhões** (outras análises) | Divergência metodológica entre fontes.                                                                                  |
+| **Lei 14.120/2021 (MP 998/2020)**                                        | Reforma de P&D/EE e ajustes de subsídios para tentar conter aumentos tarifários                                                                              | Alívio tarifário (sem cifra única consensual)                                                                            | Efeitos diluídos via Conta de Desenvolvimento Energético (CDE); fontes: Empresa de Pesquisa Energética (EPE), Planalto. |
+| **MP 1.304/2025 → Projeto de Lei de Conversão (PLV) 10/2025**            | Reforma ampla do setor elétrico: abertura do mercado livre para todos os consumidores, teto para a CDE, integração do armazenamento de energia, entre outros | Estimativa de **~R$ 7 bilhões** a mais imediato para consumidores; impactos maiores possíveis via mudança estrutural     | Conforme imprensa especializada: ([Gazeta do Povo][1])                                                                  |
 
 ---
+
+### Notas Complementares
+
+* Para MP 1.304/2025, o texto aprovado sugere que haverá impacto adicional para consumidores de casa‑e‑luz de imediato (~R$ 7 bilhões) e também preparatório para aumentos ou repasses futuros. ([Gazeta do Povo][1])
+* O teto para a CDE e a divisão de encargos entre diferentes classes de consumo (alta/média/baixa tensão) são elementos-chave do novo marco regulatório. ([Poder360][2])
+* É importante considerar que valores de “ônus estimado” variam conforme metodologia, horizonte temporal, e se incluem efeitos indiretos ou apenas diretos.
+* Para todas essas leis e medidas, o impacto no consumidor final depende de repasses regulatórios, evolução dos encargos setoriais, regime hídrico, preços de combustível, entre outros fatores.
+
 
 ### Notas
 1. Lei 14.300/2022: média do intervalo **R$ 24 bi a > R$ 100 bi**.  
 2. Apenas leis/medidas com valores oficiais ou estimativas próximas de dados oficiais foram consideradas no total anual.  
 3. Prejuízo total anual: R$ 111,3 bi. Ônus médio por habitante: R$ 548/ano (~0,62 % do PIB per capita).  
 4. Badges coloridas: vermelho = alto, laranja = médio, amarelo = baixo, azul = macro indicadores.
----
-
-### Observações Importantes
 
 - “Ônus” refere-se ao valor pago pelos consumidores via **CDE**, **quotas setoriais**, **encargos** ou **contratações compulsórias**.  
 - Nos casos sem preço fechado (ex.: térmicas da Lei 14.182), considera-se o **teto regulatório**; o gasto efetivo depende do preço contratado e despacho.  
