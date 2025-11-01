@@ -55,9 +55,9 @@ Caso medidas estruturantes de **blindagem regulatória** não sejam aprovadas, a
 > a segunda opção, neste contexto, representa **verdadeira responsabilidade pública**.
 
 ---
-# Ônus por Projetos e Leis do Setor Elétrico – Resumo
+# Ônus por Projetos e Leis do Setor Elétrico
 
-## Ônus por Projetos e Leis do Setor Elétrico – Resumo Ampliado
+
 
 | Norma (Ano)                                                              | Objetivo / Descrição                                                                                                                                         | Ônus Estimado para Consumidores                                                                                          | Observações / Fonte                                                                                                     |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
@@ -67,7 +67,6 @@ Caso medidas estruturantes de **blindagem regulatória** não sejam aprovadas, a
 | **Lei 14.300/2022 (Marco da Geração Distribuída)**                       | Mantém/eleva benefícios tarifários e isenções para micro‑/minigeração até 2045                                                                               | Estimativas variam: **R$ 24 bilhões** (segundo Ministério de Minas e Energia) até **> R$ 100 bilhões** (outras análises) | Divergência metodológica entre fontes.                                                                                  |
 | **Lei 14.120/2021 (MP 998/2020)**                                        | Reforma de P&D/EE e ajustes de subsídios para tentar conter aumentos tarifários                                                                              | Alívio tarifário (sem cifra única consensual)                                                                            | Efeitos diluídos via Conta de Desenvolvimento Energético (CDE); fontes: Empresa de Pesquisa Energética (EPE), Planalto. |
 | **MP 1.304/2025 → Projeto de Lei de Conversão (PLV) 10/2025**            | Reforma ampla do setor elétrico: abertura do mercado livre para todos os consumidores, teto para a CDE, integração do armazenamento de energia, entre outros | Estimativa de **~R$ 7 bilhões** a mais imediato para consumidores; impactos maiores possíveis via mudança estrutural     | Conforme imprensa especializada: ([Gazeta do Povo][1])                                                                  |
-
 ---
 
 ### Notas Complementares
