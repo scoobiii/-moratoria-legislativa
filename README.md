@@ -61,15 +61,15 @@ Caso medidas estruturantes de **blindagem regulatória** não sejam aprovadas, a
 
 ---
 # Ônus por Projetos e Leis do Setor Elétrico – Resumo
-
-| Norma (Ano) | Objetivo / Descrição | Ônus Estimado para Consumidores | Observações / Fonte |
-|-------------|---------------------|--------------------------------|-------------------|
-| **Lei 14.052/2020 (Conta‑COVID)** | Empréstimo setorial para mitigar efeitos da pandemia no setor elétrico | R$ 15,3 bilhões (quotas líquidas pagas) | Montante contabilizado pela ANEEL/CCEE; pago via quotas até 2025. |
-| **Lei 14.299/2022** | Subvenção às distribuidoras + criação da Conta Escassez Hídrica (CEH) pós‑crise hídrica de 2021; mantém incentivos à geração a carvão | ~R$ 5,2 bilhões/ano (CEH). Incentivo ao carvão segue até 2040 | Fonte: ANEEL, Planalto |
-| **Lei 14.182/2021 (Privatização da Eletrobras + térmicas obrigatórias)** | Autoriza privatização da Eletrobras e impõe obrigação de ~8 GW de térmicas inflexíveis | Até R$ 21,8 bilhões/ano, por 15 anos ⇒ até ~R$ 327 bilhões | Cálculo com base em teto de R$ 444/MWh; dados do Tribunal de Contas da União |
-| **Lei 14.300/2022 (Marco da Geração Distribuída)** | Mantém/eleva benefícios tarifários e isenções para micro‑/minigeração até 2045 | Estimativas variam: R$ 24 bilhões (segundo Ministério de Minas e Energia) até > R$ 100 bilhões (outras análises) | Divergência metodológica entre fontes |
-| **Lei 14.120/2021 (MP 998/2020)** | Reforma de P&D/EE e ajustes de subsídios para tentar conter aumentos tarifários | Alívio tarifário (sem cifra única consensual) | Efeitos diluídos via Conta de Desenvolvimento Energético (CDE); fontes: Empresa de Pesquisa Energética (EPE), Planalto |
-| **MP 1.304/2025 → Projeto de Lei de Conversão (PLV) 10/2025)** | Reforma ampla do setor elétrico: abertura do mercado livre para todos os consumidores, teto para a CDE, integração do armazenamento de energia, entre outros | Estimativa de impacto adicional imediato ~R$ 7 bilhões; efeitos futuros dependem da implementação estrutural | Fonte: Portal da Câmara dos Deputados / Congresso Nacional |
+        
+        | Norma (Ano) | Objetivo / Descrição | Ônus Estimado para Consumidores | Observações / Fonte |
+        |-------------|---------------------|--------------------------------|-------------------|
+        | **Lei 14.052/2020 (Conta‑COVID)** | Empréstimo setorial para mitigar efeitos da pandemia no setor elétrico | R$ 15,3 bilhões (quotas líquidas pagas) | Montante contabilizado pela ANEEL/CCEE; pago via quotas até 2025. |
+        | **Lei 14.299/2022** | Subvenção às distribuidoras + criação da Conta Escassez Hídrica (CEH) pós‑crise hídrica de 2021; mantém incentivos à geração a carvão | ~R$ 5,2 bilhões/ano (CEH). Incentivo ao carvão segue até 2040 | Fonte: ANEEL, Planalto |
+        | **Lei 14.182/2021 (Privatização da Eletrobras + térmicas obrigatórias)** | Autoriza privatização da Eletrobras e impõe obrigação de ~8 GW de térmicas inflexíveis | Até R$ 21,8 bilhões/ano, por 15 anos ⇒ até ~R$ 327 bilhões | Cálculo com base em teto de R$ 444/MWh; dados do Tribunal de Contas da União |
+        | **Lei 14.300/2022 (Marco da Geração Distribuída)** | Mantém/eleva benefícios tarifários e isenções para micro‑/minigeração até 2045 | Estimativas variam: R$ 24 bilhões (segundo Ministério de Minas e Energia) até > R$ 100 bilhões (outras análises) | Divergência metodológica entre fontes |
+        | **Lei 14.120/2021 (MP 998/2020)** | Reforma de P&D/EE e ajustes de subsídios para tentar conter aumentos tarifários | Alívio tarifário (sem cifra única consensual) | Efeitos diluídos via Conta de Desenvolvimento Energético (CDE); fontes: Empresa de Pesquisa Energética (EPE), Planalto |
+        | **MP 1.304/2025 → Projeto de Lei de Conversão (PLV) 10/2025)** | Reforma ampla do setor elétrico: abertura do mercado livre para todos os consumidores, teto para a CDE, integração do armazenamento de energia, entre outros | Estimativa de impacto adicional imediato ~R$ 7 bilhões; efeitos futuros dependem da implementação estrutural | Fonte: Portal da Câmara dos Deputados / Congresso Nacional |
 
 
 ---
