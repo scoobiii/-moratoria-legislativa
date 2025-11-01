@@ -62,15 +62,15 @@ Caso medidas estruturantes de **blindagem regulatória** não sejam aprovadas, a
 ---
 
 ## Ônus por Projetos e Leis do Setor Elétrico (Resumo)
-
-| Norma (Ano) | O que fez | Ônus estimado para consumidores | Observações / Fonte |
-|--------------|------------|--------------------------------|----------------------|
-| **Lei 14.052/2020 (Conta-COVID)** | Empréstimo setorial para mitigar efeitos da pandemia | **R$ 15,3 bilhões** (quotas líquidas pagas) | Montante contabilizado nas CCEE/ANEEL; pago via quotas até 2025. *(ANEEL)* |
-| **Lei 14.299/2022** | Subvenção às distribuidoras e Conta Escassez Hídrica (CEH) pós-crise 2021; manteve incentivos ao carvão | **R$ 5,2 bilhões/ano** (CEH). Incentivo ao carvão segue até 2040. | Fonte: ANEEL, Planalto |
-| **Lei 14.182/2021 (Eletrobras + térmicas obrigatórias)** | Autoriza privatização e impõe 8 GW de térmicas inflexíveis | **Até R$ 21,8 bi/ano** (teto de R$ 444/MWh), por 15 anos ⇒ **até R$ 327 bi** | Cálculo baseado em dados do TCU |
-| **Lei 14.300/2022 (Marco da Geração Distribuída)** | Mantém/gradua benefícios tarifários e isenções até 2045 | **R$ 24 bi (MME)** a **>R$ 100 bi** (outras análises) | Divergência metodológica; MME x Poder360 |
-| **Lei 14.120/2021 (MP 998/2020)** | Redireciona parte de P&D/EE e ajusta subsídios para conter aumentos tarifários | **Alívio tarifário** (sem cifra única consensual) | Efeitos diluídos via CDE; fontes EPE, Planalto |
-| **MP 1.212/2024 → PLV 10/2025** | Antecipação de recebíveis da Eletrobras para quitar Conta-COVID/CEH | **Alívio tarifário imediato** (reduz ônus futuro) | ANEEL e MME apontam redução de encargos médios |
+        
+        | Norma (Ano) | O que fez | Ônus estimado para consumidores | Observações / Fonte |
+        |--------------|------------|--------------------------------|----------------------|
+        | **Lei 14.052/2020 (Conta-COVID)** | Empréstimo setorial para mitigar efeitos da pandemia | **R$ 15,3 bilhões** (quotas líquidas pagas) | Montante contabilizado nas CCEE/ANEEL; pago via quotas até 2025. *(ANEEL)* |
+        | **Lei 14.299/2022** | Subvenção às distribuidoras e Conta Escassez Hídrica (CEH) pós-crise 2021; manteve incentivos ao carvão | **R$ 5,2 bilhões/ano** (CEH). Incentivo ao carvão segue até 2040. | Fonte: ANEEL, Planalto |
+        | **Lei 14.182/2021 (Eletrobras + térmicas obrigatórias)** | Autoriza privatização e impõe 8 GW de térmicas inflexíveis | **Até R$ 21,8 bi/ano** (teto de R$ 444/MWh), por 15 anos ⇒ **até R$ 327 bi** | Cálculo baseado em dados do TCU |
+        | **Lei 14.300/2022 (Marco da Geração Distribuída)** | Mantém/gradua benefícios tarifários e isenções até 2045 | **R$ 24 bi (MME)** a **>R$ 100 bi** (outras análises) | Divergência metodológica; MME x Poder360 |
+        | **Lei 14.120/2021 (MP 998/2020)** | Redireciona parte de P&D/EE e ajusta subsídios para conter aumentos tarifários | **Alívio tarifário** (sem cifra única consensual) | Efeitos diluídos via CDE; fontes EPE, Planalto |
+        | **MP 1.212/2024 → PLV 10/2025** | Antecipação de recebíveis da Eletrobras para quitar Conta-COVID/CEH | **Alívio tarifário imediato** (reduz ônus futuro) | ANEEL e MME apontam redução de encargos médios |
 
 ---
 
