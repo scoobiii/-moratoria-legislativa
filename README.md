@@ -179,13 +179,7 @@ Caso medidas estruturantes de **blindagem regulatória** não sejam aprovadas, a
 
 > **Conclusão:**  
 > O setor elétrico brasileiro carece de estabilidade regulatória e racionalidade econômica.  
-> Uma moratória legislativa temporária se mostra como a forma mais efetiva de proteger o consumidor e promover o verdadeiro progresso nacional.
+> Uma moratória legislativa temporária por dez anos se mostra como a forma mais efetiva de proteger o consumidor e promover o verdadeiro progresso nacional.
+> Os legisladores ja garantiram 4 gerações em lobby. 
 
----
 
-**Assinado:**  
-**Zeh Sobrinho**  
-*MEX Energia*  
-📞 +55 11 94856-2247  
-📧 [contato@mexenergia.com.br](mailto:contato@mexenergia.com.br)
-```
