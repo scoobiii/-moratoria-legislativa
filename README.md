@@ -1,77 +1,191 @@
-# -moratoria-legislativa
-Prezados e Nobres Senadores,
+Perfeito ⚡
+Abaixo está o conteúdo já **organizado em formato Markdown (.md)**, limpo, estruturado e pronto para commit em repositório GitHub — inclusive com sintaxe compatível para exibição de tabelas e formatação adequada a *policy papers* ou *readme institucionais*.
 
+---
 
+```markdown
+# Moratória Legislativa  
+### -moratoria-legislativa  
 
-A despeito dos esforços recentes voltados ao equilíbrio entre os interesses dos consumidores cativos e o avanço da liberdade de escolha no setor elétrico, observa-se que a estrutura atual permanece fortemente concentrada e de caráter monopolista razão da exixistencias de agências - aneel - para proteger os insteresses dos consumidores através dos kpi's mais importantes do planeta depois do amor.
+**Autor:** Zeh Sobrinho  
+**Organização:** MEX Energia  
+**Contato:** +55 11 94856-2247  
+**Data:** 01/11/2025  
 
-1) elevar consumo de enegia per capita de 2900kwh para 20.000 kwh
-2) elevar pib per capita de US$10.000,00 para US$100.000,00
-3) consumidores gostam tanto de dinheiro quanto os legisladores.
+---
 
-Entretantto, a atual configuração tem evidenciado o quanto determinadas agências e segmentos legislativos têm atuado, direta ou indiretamente, na manutenção dessa condição, perpetuando um modelo que restringe a concorrência, limita a eficiência e, sobretudo, mantém o próprio país em uma posição de dependência energética e econômica.
+## Prezados e Nobres Senadores,
 
+A despeito dos esforços recentes voltados ao equilíbrio entre os interesses dos consumidores cativos e o avanço da liberdade de escolha no setor elétrico, observa-se que a estrutura atual permanece fortemente concentrada e de caráter monopolista, razão da existência de agências — como a ANEEL — que deveriam proteger os interesses dos consumidores através dos **principais indicadores de desempenho nacional**, tão fundamentais quanto o amor:
 
+1. Elevar o consumo de energia per capita de **2.900 kWh para 20.000 kWh**;  
+2. Elevar o PIB per capita de **US$ 10.000,00 para US$ 100.000,00**;  
+3. Reconhecer que **consumidores apreciam prosperidade tanto quanto legisladores**.
 
+Entretanto, a configuração vigente evidencia que determinadas agências e segmentos legislativos têm atuado — direta ou indiretamente — na **manutenção dessa condição de dependência**, perpetuando um modelo que restringe a concorrência, limita a eficiência e mantém o país refém de um sistema concentrado.
 
-Não causa surpresa que determinados agentes trabalhem contra os interesses nacionais — antes de forma velada, hoje, de modo aberto e descarado — movidos, em grande parte, por motivações financeiras e pelo lobby setorial.
-Entretanto, é inaceitável que tais interesses se sobreponham à perspectiva de um Brasil com consumo de energia per capita de 20.000 kWh e PIB per capita da ordem de US$ 100.000, patamares já alcançados por municípios como Maricá (RJ), que souberam investir seus recursos de forma estratégica e sustentável.
+---
 
+## Contexto e Fundamentação
 
+Não causa surpresa que certos agentes trabalhem contra os interesses nacionais — antes de forma velada, hoje, de modo aberto e descarado — movidos, em grande parte, por motivações financeiras e pelo **lobby setorial**.
 
+Contudo, é inaceitável que tais interesses se sobreponham à visão de um Brasil com **consumo de energia per capita de 20.000 kWh** e **PIB per capita de US$ 100.000**, patamares já alcançados por municípios como **Maricá (RJ)**, que souberam investir seus recursos de forma estratégica e sustentável.
 
-A título de exemplo, um veículo elétrico consome aproximadamente o dobro do consumo médio per capita do brasileiro. Portanto, a expansão da mobilidade elétrica não pode ser vista como um nicho restrito, mas sim como uma necessidade nacional que requer uma malha elétrica robusta, confiável e eficiente.
-Hoje, o Sistema Interligado Nacional (SIN) apresenta perdas médias de energia em torno de 16%, comparadas a apenas 5% na China, país de dimensões semelhantes.
+---
 
+## Mobilidade Elétrica e Eficiência do SIN
 
-Manter a prática atual — gerar energia renovável para, em seguida, submetê-la a curtailment (redução forçada de geração) e ainda remunerar os investidores via tarifas pagas pelo consumidor cativo — configura um ônus indevido de cerca de R$ 7 bilhões, representando um verdadeiro “golpe elétrico”, superior, em impacto econômico, ao já conhecido “golpe institucionalizado do INSS”.
+Um veículo elétrico consome aproximadamente **o dobro do consumo médio per capita do brasileiro**.  
+A expansão da **mobilidade elétrica** não pode ser tratada como um nicho restrito, mas como uma **necessidade nacional** — que demanda uma malha elétrica robusta, confiável e eficiente.
 
-Diante desse cenário, proponho que todas as proposições legislativas e regulatórias no setor elétrico entrem em quarentena de 10 anos, de modo a permitir a recuperação do país diante de sucessivos ajustes, distorções e interferências que têm fragilizado o sistema e penalizado o consumidor final.
+Hoje, o **Sistema Interligado Nacional (SIN)** apresenta **perdas médias de 16%**, enquanto **a China opera com apenas 5%** — mesmo possuindo dimensões continentais semelhantes.
 
+---
 
+## Curtailment: O Golpe Elétrico
 
-Caso medidas estruturantes de blindagem regulatória do consumidor cativo não sejam aprovadas, a inação legislativa — isto é, não produzir novas leis ou resoluções no setor elétrico — será, paradoxalmente, a medida mais prudente e benéfica ao desenvolvimento nacional neste momento.
-Entre “agir e prejudicar” ou “não agir e preservar”, a segunda opção, neste contexto, representa verdadeira responsabilidade pública.
+Manter a prática atual — **gerar energia renovável para, em seguida, submetê-la a curtailment (redução forçada de geração)** e ainda **remunerar investidores via tarifas pagas pelos consumidores cativos** — configura um **ônus indevido estimado em R$ 7 bilhões anuais**.
 
-Ônus por projetos/leis do setor elétrico (resumo)
-Norma (ano)	O que fez	Ônus estimado para consumidores	Observações / Fonte
-Lei 14.052/2020 (Conta-COVID)	Empréstimo setorial para mitigar efeitos da pandemia	R$ 15,3 bilhões (quotas líquidas pagas)	Montante contabilizado nas CCEE/ANEEL; pago via quotas até 2025. 
-Aneel
-+1
+Esse custo representa um verdadeiro **“Golpe Elétrico”**, superior em impacto econômico ao já conhecido “Golpe Institucionalizado do INSS”.
 
-Lei 14.299/2022	Subvenção às distribuidoras e Conta Escassez Hídrica (CEH) pós-crise 2021; manteve incentivos ao carvão	CEH ~R$ 5,2 bilhões (encargo 2022). Ônus do carvão segue até 2040 (valor anual varia)	Valor da CEH divulgado por ANEEL; a lei também criou/ajustou subvenções e manteve programa do carvão com custo alocado à CDE. 
-Aneel
-+2
-Planalto
-+2
+---
 
-Lei 14.182/2021 (Eletrobras + térmicas obrigatórias)	Autoriza privatização e impõe 8 GW de térmicas inflexíveis	Até ~R$ 21,8 bi/ano (se contratadas no teto de R$ 444/MWh), por 15 anos ⇒ até ~R$ 327 bi	Cálculo com base no TCU: 49.056.000 MWh/ano × R$ 444/MWh (preço-teto). Valor efetivo depende dos PPAs. 
-Portal da Câmara dos Deputados
+## Proposta: Moratória Legislativa de 10 anos
 
-Lei 14.300/2022 (Marco da Geração Distribuída)	Mantém/gradua benefícios tarifários e isenções de fio B/encargos até 2045	Estimativas variam de R$ 24 bi (MME, cenário conservador) a >R$ 100 bi até 2045 (outras análises)	Divergência de cenários/metodologias; MME fala em ~R$ 24 bi, enquanto entidades e imprensa reportam cenários acima de R$ 100 bi. 
-Poder360
-+1
+Diante do exposto, propõe-se uma **Moratória Legislativa** no setor elétrico, com duração de **10 anos**, para permitir:
 
-Lei 14.120/2021 (conversão da MP 998/2020)	Redireciona parte de P&D/EE e ajusta subsídios para conter aumentos tarifários	Alívio (redução/inibição de aumentos); sem cifra única consensual	Efeitos distribuídos em vários itens da CDE; documentos da EPE/Planalto descrevem redução de pressão tarifária, mas não há um “número único”. 
-Planalto
-+2
-EPE
-+2
+- A recuperação estrutural do país após sucessivos ajustes e distorções;  
+- A estabilização de regras e investimentos;  
+- O fortalecimento da confiança entre consumidores, investidores e Estado.
 
-MP 1.212/2024 → PLV 10/2025 (aprovada em 31/10/2025)	Antecipação de recebíveis da Eletrobras para quitar saldos da Conta-COVID/CEH e reduzir tarifas 2025–2027	Alívio tarifário (reduz ônus futuro das contas setoriais)	ANEEL e MME apontam que a medida diminui o encargo médio ao consumidor no curto prazo ao liquidar as contas extraordinárias. 
-Serviços e Informações do Brasil
-+1
+Caso medidas estruturantes de **blindagem regulatória** não sejam aprovadas, a **inação legislativa** — ou seja, **não produzir novas leis e resoluções no setor elétrico** — será, paradoxalmente, **a medida mais prudente e benéfica** ao desenvolvimento nacional.
 
-Observações importantes
-• “Ônus” aqui é o valor pago nas tarifas (via CDE, quotas/encargos ou exposição a contratações compulsórias).
-• Para leis sem preço fechado (p.ex., térmicas da Lei 14.182), a referência é um teto regulatório; o gasto real depende do preço contratado e despacho. 
-Portal da Câmara dos Deputados
+> Entre “agir e prejudicar” ou “não agir e preservar”,  
+> a segunda opção, neste contexto, representa **verdadeira responsabilidade pública**.
 
-• No Marco da GD, os números divergem muito porque dependem de adoção, curva de transição e parâmetros de rede; por isso mostro faixa com fontes distintas. 
-Poder360
-+1
+---
 
-Quer que eu amplie?
+## Ônus por Projetos e Leis do Setor Elétrico (Resumo)
 
-"seneduardobraga"<sen.eduardobraga@senado.leg.br>
-"senvenezianovitaldorego"<sen.venezianovitaldorego@senado.leg.br>,"depdiegoandrade"<dep.diegoandrade@camara.leg.br>,"senanapaulalobato"<sen.anapaulalobato@senado.leg.br>,"deparnaldojardim"<dep.arnaldojardim@camara.leg.br>,"depmarussaboldrin"<dep.marussaboldrin@camara.leg.br>,"senesperidiaoamin"<sen.esperidiaoamin@senado.leg.br>,"depjuliolopes"<dep.juliolopes@camara.leg.br>,"senlaerciooliveira"<sen.laerciooliveira@senado.leg.br>,"depzevitor"<dep.zevitor@camara.leg.br>,"senefraimfilho"<sen.efraimfilho@senado.leg.br>,"sencarlosportinho"<sen.carlosportinho@senado.leg.br>,"senfernandodueire"<sen.fernandodueire@senado.leg.br>,"senfabianocontarato"<sen.fabianocontarato@senado.leg.br>,"depreginaldolopes"<dep.reginaldolopes@camara.leg.br>,"depbandeirademello"<dep.bandeirademello@camara.leg.br>,"depcarlosveras"<dep.carlosveras@camara.leg.br>,"deppedrocampos"<dep.pedrocampos@camara.leg.br>,"dephugoleal"<dep.hugoleal@camara.leg.br>,"depbenesleocadio"<dep.benesleocadio@camara.leg.br>,"depbohngass"<dep.bohngass@camara.leg.br>,"sencarlosviana"<sen.carlosviana@senado.leg.br>,"depcarloshenriquegaguim"<dep.carloshenriquegaguim@camara.leg.br>,"seneduardobraga"<sen.eduardobraga@senado.leg.br>,"seneduardogirao"<sen.eduardogirao@senado.leg.br>,"depcarloszarattini"<dep.carloszarattini@camara.leg.br>,"depclaudiocajado"<dep.claudiocajado@camara.leg.br>,"depcleberverde"<dep.cleberverde@camara.leg.br>,"depcovattifilho"<dep.covattifilho@camara.leg.br>,"senhumbertocosta"<sen.humbertocosta@senado.leg.br>,"depdaniloforte"<dep.daniloforte@camara.leg.br>,"senizalcilucas"<sen.izalcilucas@senado.leg.br>,"depfelipecarreras"<dep.felipecarreras@camara.leg.br>,"senjaqueswagner"<sen.jaqueswagner@senado.leg.br>,"depfelipefrancischini"<dep.felipefrancischini@camara.leg.br>,"senjaymecampos"<sen.jaymecampos@senado.leg.br>,"senpaulopaim"<sen.paulopaim@senado.leg.br>,"depfelixmendoncajunior"<dep.felixmendoncajunior@camara.leg.br>,"sendavialcolumbre"<sen.davialcolumbre@senado.leg.br>,"depfernandocoelhofilho"<dep.fernandocoelhofilho@camara.leg.br>,"depgeraldomendes"<dep.geraldomendes@camara.leg.br>,"senrodrigopacheco"<sen.rodrigopacheco@senado.leg.br>,"depjoaocarlosbacelar"<dep.joaocarlosbacelar@camara.leg.br>,"senrogeriocarvalho"<sen.rogeriocarvalho@senado.leg.br>,"depjoseguimaraes"<dep.joseguimaraes@camara.leg.br>,"senvanderlancardoso"<sen.vanderlancardoso@senado.leg.br>,"senwellingtonfagundes"<sen.wellingtonfagundes@senado.leg.br>,"depjoseildoramos"<dep.joseildoramos@camara.leg.br>,"senelizianegama"<sen.elizianegama@senado.leg.br>,"sensorayathronicke"<sen.sorayathronicke@senado.leg.br>,"deplafayettedeandrada"<dep.lafayettedeandrada@camara.leg.br>,"senzenaidemaia"<sen.zenaidemaia@senado.leg.br>,"depluciomosquini"<dep.luciomosquini@camara.leg.br>,"sensergiopetecao"<sen.sergiopetecao@senado.leg.br>,"depluizfernandofaria"<dep.luizfernandofaria@camara.leg.br>,"senfernandofarias"<sen.fernandofarias@senado.leg.br>,"depmarcioalvino"<dep.marcioalvino@camara.leg.br>,"senmarcelocastro"<sen.marcelocastro@senado.leg.br>,"depnataliabonavides"<dep.nataliabonavides@camara.leg.br>,"deppaulofolletto"<dep.paulofolletto@camara.leg.br>,"senastronautamarcospontes"<sen.astronautamarcospontes@senado.leg.br>,"sencleitinho"<sen.cleitinho@senado.leg.br>,"sengiordano"<sen.giordano@senado.leg.br>,"sencidgomes"<sen.cidgomes@senado.leg.br>,"deprodrigodecastro"<dep.rodrigodecastro@camara.leg.br>,"senrandolferodrigues"<sen.randolferodrigues@senado.leg.br>,"deprosanavalle"<dep.rosanavalle@camara.leg.br>,"deprubensotoni"<dep.rubensotoni@camara.leg.br>,"senmargarethbuzetti"<sen.margarethbuzetti@senado.leg.br>,"depsidneyleite"<dep.sidneyleite@camara.leg.br>,"senmarcosrogerio"<sen.marcosrogerio@senado.leg.br>,"depvicentinhojunior"<dep.vicentinhojunior@camara.leg.br>,"senleilabarros"<sen.leilabarros@senado.leg.br>,"depviniciuscarvalho"<dep.viniciuscarvalho@camara.leg.br>,"senalanrick"<sen.alanrick@senado.leg.br>,"senteresaleitao"<sen.teresaleitao@senado.leg.br>,"depzecadirceu"<dep.zecadirceu@camara.leg.br>,"senmeciasdejesus"<sen.meciasdejesus@senado.leg.br>,"senhamiltonmourao"<sen.hamiltonmourao@senado.leg.br>,"senottoalencar"<sen.ottoalencar@senado.leg.br>,"depdomingossavio"<dep.domingossavio@camara.leg.br>,"depalceumoreira"<dep.alceumoreira@camara.leg.br>
+| Norma (Ano) | O que fez | Ônus estimado para consumidores | Observações / Fonte |
+|--------------|------------|--------------------------------|----------------------|
+| **Lei 14.052/2020 (Conta-COVID)** | Empréstimo setorial para mitigar efeitos da pandemia | **R$ 15,3 bilhões** (quotas líquidas pagas) | Montante contabilizado nas CCEE/ANEEL; pago via quotas até 2025. *(ANEEL)* |
+| **Lei 14.299/2022** | Subvenção às distribuidoras e Conta Escassez Hídrica (CEH) pós-crise 2021; manteve incentivos ao carvão | **R$ 5,2 bilhões/ano** (CEH). Incentivo ao carvão segue até 2040. | Fonte: ANEEL, Planalto |
+| **Lei 14.182/2021 (Eletrobras + térmicas obrigatórias)** | Autoriza privatização e impõe 8 GW de térmicas inflexíveis | **Até R$ 21,8 bi/ano** (teto de R$ 444/MWh), por 15 anos ⇒ **até R$ 327 bi** | Cálculo baseado em dados do TCU |
+| **Lei 14.300/2022 (Marco da Geração Distribuída)** | Mantém/gradua benefícios tarifários e isenções até 2045 | **R$ 24 bi (MME)** a **>R$ 100 bi** (outras análises) | Divergência metodológica; MME x Poder360 |
+| **Lei 14.120/2021 (MP 998/2020)** | Redireciona parte de P&D/EE e ajusta subsídios para conter aumentos tarifários | **Alívio tarifário** (sem cifra única consensual) | Efeitos diluídos via CDE; fontes EPE, Planalto |
+| **MP 1.212/2024 → PLV 10/2025** | Antecipação de recebíveis da Eletrobras para quitar Conta-COVID/CEH | **Alívio tarifário imediato** (reduz ônus futuro) | ANEEL e MME apontam redução de encargos médios |
+
+---
+
+### Observações Importantes
+
+- “Ônus” refere-se ao valor pago pelos consumidores via **CDE**, **quotas setoriais**, **encargos** ou **contratações compulsórias**.  
+- Nos casos sem preço fechado (ex.: térmicas da Lei 14.182), considera-se o **teto regulatório**; o gasto efetivo depende do preço contratado e despacho.  
+- No **Marco da GD (Lei 14.300)**, os valores variam conforme **adoção tecnológica**, **curva de transição** e **parâmetros de rede**.
+
+---
+
+## Lista de Contatos Institucionais
+
+```
+
+[sen.eduardobraga@senado.leg.br](mailto:sen.eduardobraga@senado.leg.br)
+[sen.venezianovitaldorego@senado.leg.br](mailto:sen.venezianovitaldorego@senado.leg.br)
+[dep.diegoandrade@camara.leg.br](mailto:dep.diegoandrade@camara.leg.br)
+[sen.anapaulalobato@senado.leg.br](mailto:sen.anapaulalobato@senado.leg.br)
+[dep.arnaldojardim@camara.leg.br](mailto:dep.arnaldojardim@camara.leg.br)
+[dep.marussaboldrin@camara.leg.br](mailto:dep.marussaboldrin@camara.leg.br)
+[sen.esperidiaoamin@senado.leg.br](mailto:sen.esperidiaoamin@senado.leg.br)
+[dep.juliolopes@camara.leg.br](mailto:dep.juliolopes@camara.leg.br)
+[sen.laerciooliveira@senado.leg.br](mailto:sen.laerciooliveira@senado.leg.br)
+[dep.zevitor@camara.leg.br](mailto:dep.zevitor@camara.leg.br)
+[sen.efraimfilho@senado.leg.br](mailto:sen.efraimfilho@senado.leg.br)
+[sen.carlosportinho@senado.leg.br](mailto:sen.carlosportinho@senado.leg.br)
+[sen.fernandodueire@senado.leg.br](mailto:sen.fernandodueire@senado.leg.br)
+[sen.fabianocontarato@senado.leg.br](mailto:sen.fabianocontarato@senado.leg.br)
+[dep.reginaldolopes@camara.leg.br](mailto:dep.reginaldolopes@camara.leg.br)
+[dep.bandeirademello@camara.leg.br](mailto:dep.bandeirademello@camara.leg.br)
+[dep.carlosveras@camara.leg.br](mailto:dep.carlosveras@camara.leg.br)
+[dep.pedrocampos@camara.leg.br](mailto:dep.pedrocampos@camara.leg.br)
+[dep.hugoleal@camara.leg.br](mailto:dep.hugoleal@camara.leg.br)
+[dep.benesleocadio@camara.leg.br](mailto:dep.benesleocadio@camara.leg.br)
+[dep.bohngass@camara.leg.br](mailto:dep.bohngass@camara.leg.br)
+[sen.carlosviana@senado.leg.br](mailto:sen.carlosviana@senado.leg.br)
+[dep.carloshenriquegaguim@camara.leg.br](mailto:dep.carloshenriquegaguim@camara.leg.br)
+[sen.eduardogirao@senado.leg.br](mailto:sen.eduardogirao@senado.leg.br)
+[dep.carloszarattini@camara.leg.br](mailto:dep.carloszarattini@camara.leg.br)
+[dep.claudiocajado@camara.leg.br](mailto:dep.claudiocajado@camara.leg.br)
+[dep.cleberverde@camara.leg.br](mailto:dep.cleberverde@camara.leg.br)
+[dep.covattifilho@camara.leg.br](mailto:dep.covattifilho@camara.leg.br)
+[sen.humbertocosta@senado.leg.br](mailto:sen.humbertocosta@senado.leg.br)
+[dep.daniloforte@camara.leg.br](mailto:dep.daniloforte@camara.leg.br)
+[sen.izalcilucas@senado.leg.br](mailto:sen.izalcilucas@senado.leg.br)
+[dep.felipecarreras@camara.leg.br](mailto:dep.felipecarreras@camara.leg.br)
+[sen.jaqueswagner@senado.leg.br](mailto:sen.jaqueswagner@senado.leg.br)
+[dep.felipefrancischini@camara.leg.br](mailto:dep.felipefrancischini@camara.leg.br)
+[sen.jaymecampos@senado.leg.br](mailto:sen.jaymecampos@senado.leg.br)
+[sen.paulopaim@senado.leg.br](mailto:sen.paulopaim@senado.leg.br)
+[dep.felixmendoncajunior@camara.leg.br](mailto:dep.felixmendoncajunior@camara.leg.br)
+[sen.davialcolumbre@senado.leg.br](mailto:sen.davialcolumbre@senado.leg.br)
+[dep.fernandocoelhofilho@camara.leg.br](mailto:dep.fernandocoelhofilho@camara.leg.br)
+[dep.geraldomendes@camara.leg.br](mailto:dep.geraldomendes@camara.leg.br)
+[sen.rodrigopacheco@senado.leg.br](mailto:sen.rodrigopacheco@senado.leg.br)
+[dep.joaocarlosbacelar@camara.leg.br](mailto:dep.joaocarlosbacelar@camara.leg.br)
+[sen.rogeriocarvalho@senado.leg.br](mailto:sen.rogeriocarvalho@senado.leg.br)
+[dep.joseguimaraes@camara.leg.br](mailto:dep.joseguimaraes@camara.leg.br)
+[sen.vanderlancardoso@senado.leg.br](mailto:sen.vanderlancardoso@senado.leg.br)
+[sen.wellingtonfagundes@senado.leg.br](mailto:sen.wellingtonfagundes@senado.leg.br)
+[dep.joseildoramos@camara.leg.br](mailto:dep.joseildoramos@camara.leg.br)
+[sen.elizianegama@senado.leg.br](mailto:sen.elizianegama@senado.leg.br)
+[sen.sorayathronicke@senado.leg.br](mailto:sen.sorayathronicke@senado.leg.br)
+[dep.lafayettedeandrada@camara.leg.br](mailto:dep.lafayettedeandrada@camara.leg.br)
+[sen.zenaidemaia@senado.leg.br](mailto:sen.zenaidemaia@senado.leg.br)
+[dep.luciomosquini@camara.leg.br](mailto:dep.luciomosquini@camara.leg.br)
+[sen.sergiopetecao@senado.leg.br](mailto:sen.sergiopetecao@senado.leg.br)
+[dep.luizfernandofaria@camara.leg.br](mailto:dep.luizfernandofaria@camara.leg.br)
+[sen.fernandofarias@senado.leg.br](mailto:sen.fernandofarias@senado.leg.br)
+[dep.marcioalvino@camara.leg.br](mailto:dep.marcioalvino@camara.leg.br)
+[sen.marcelocastro@senado.leg.br](mailto:sen.marcelocastro@senado.leg.br)
+[dep.nataliabonavides@camara.leg.br](mailto:dep.nataliabonavides@camara.leg.br)
+[dep.paulofolletto@camara.leg.br](mailto:dep.paulofolletto@camara.leg.br)
+[sen.astronautamarcospontes@senado.leg.br](mailto:sen.astronautamarcospontes@senado.leg.br)
+[sen.cleitinho@senado.leg.br](mailto:sen.cleitinho@senado.leg.br)
+[sen.giordano@senado.leg.br](mailto:sen.giordano@senado.leg.br)
+[sen.cidgomes@senado.leg.br](mailto:sen.cidgomes@senado.leg.br)
+[dep.rodrigodecastro@camara.leg.br](mailto:dep.rodrigodecastro@camara.leg.br)
+[sen.randolferodrigues@senado.leg.br](mailto:sen.randolferodrigues@senado.leg.br)
+[dep.rosanavalle@camara.leg.br](mailto:dep.rosanavalle@camara.leg.br)
+[dep.rubensotoni@camara.leg.br](mailto:dep.rubensotoni@camara.leg.br)
+[sen.margarethbuzetti@senado.leg.br](mailto:sen.margarethbuzetti@senado.leg.br)
+[dep.sidneyleite@camara.leg.br](mailto:dep.sidneyleite@camara.leg.br)
+[sen.marcosrogerio@senado.leg.br](mailto:sen.marcosrogerio@senado.leg.br)
+[dep.vicentinhojunior@camara.leg.br](mailto:dep.vicentinhojunior@camara.leg.br)
+[sen.leilabarros@senado.leg.br](mailto:sen.leilabarros@senado.leg.br)
+[dep.viniciuscarvalho@camara.leg.br](mailto:dep.viniciuscarvalho@camara.leg.br)
+[sen.alanrick@senado.leg.br](mailto:sen.alanrick@senado.leg.br)
+[sen.teresaleitao@senado.leg.br](mailto:sen.teresaleitao@senado.leg.br)
+[dep.zecadirceu@camara.leg.br](mailto:dep.zecadirceu@camara.leg.br)
+[sen.meciasdejesus@senado.leg.br](mailto:sen.meciasdejesus@senado.leg.br)
+[sen.hamiltonmourao@senado.leg.br](mailto:sen.hamiltonmourao@senado.leg.br)
+[sen.ottoalencar@senado.leg.br](mailto:sen.ottoalencar@senado.leg.br)
+[dep.domingossavio@camara.leg.br](mailto:dep.domingossavio@camara.leg.br)
+[dep.alceumoreira@camara.leg.br](mailto:dep.alceumoreira@camara.leg.br)
+
+```
+
+---
+
+> **Conclusão:**  
+> O setor elétrico brasileiro carece de estabilidade regulatória e racionalidade econômica.  
+> Uma moratória legislativa temporária se mostra como a forma mais efetiva de proteger o consumidor e promover o verdadeiro progresso nacional.
+
+---
+
+**Assinado:**  
+**Zeh Sobrinho**  
+*MEX Energia*  
+📞 +55 11 94856-2247  
+📧 [contato@mexenergia.com.br](mailto:contato@mexenergia.com.br)
+```
